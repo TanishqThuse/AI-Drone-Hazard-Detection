@@ -49,8 +49,9 @@ pip install -r requirements.txt
 ```
 
 3️⃣ Run the AI model
-
+```bash
 python scripts/detect_hazards.py
+```
 
 4️⃣ Deploy the drone system (ensure hardware is connected)
 
