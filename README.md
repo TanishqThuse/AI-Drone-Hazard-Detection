@@ -18,10 +18,12 @@ An **AI-driven autonomous drone** that **monitors lift zones, detects hazards, a
 - **Cloud & Data Storage** – Firebase, AWS, Google Cloud  
 - **Networking & Streaming** – WebRTC, RTSP, 5G/Wi-Fi  
 
-## 📊 Dataset Used  
-We used the **"Lift Dataset"** from **TU Graz** for training our AI model on hazard detection in lift zones.  
 
-📂 **Dataset Link:** [TU Graz Lift Dataset](https://www.tugraz.at/index.php?id=22387)  
+📂 **Dataset Description:**  
+
+The **Semantic Drone Dataset** focuses on the semantic understanding of urban scenes to improve the safety of autonomous drone flight and landing. It contains **high-resolution aerial images (6000x4000px)** captured at **5 to 30 meters altitude** over **20+ houses**. The dataset includes **400 publicly available training images** and **200 private test images**.  
+
+📂 **Dataset Link:** [Semantic Drone Dataset](https://www.tugraz.at/index.php?id=22387)  
 
 ## 📂 Project Structure  
 
