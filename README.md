@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/efb8a9b7-1cdb-4432-9dba-d02afe8ee0ac)# 🚁 AI-Powered Drone for Lift Zone Surveillance & Hazard Detection 🚀  
+🚁 AI-Powered Drone for Lift Zone Surveillance & Hazard Detection 🚀  
 
 ## 📌 Overview  
 An **AI-driven autonomous drone** that **monitors lift zones, detects hazards, and provides real-time alerts**. Using **computer vision, IoT, and multi-sensor integration**, this system enhances **workplace safety** by preventing accidents before they happen.  
