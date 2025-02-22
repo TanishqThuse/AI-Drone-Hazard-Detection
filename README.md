@@ -1,5 +1,3 @@
-# AI-Drone-Hazard-Detection
-
 # 🚁 AI-Powered Drone for Lift Zone Surveillance & Hazard Detection 🚀  
 
 ## 📌 Overview  
