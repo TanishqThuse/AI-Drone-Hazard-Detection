@@ -21,7 +21,9 @@ An **AI-driven autonomous drone** that **monitors lift zones, detects hazards, a
 ## 📂 Project Structure  
 
 📁 Drone-LiftZone-Surveillance
+
 │── 📄 README.md (Project Documentation)
+
 │── 📂 models/ (Trained AI models)
 
 │── 📂 scripts/ (Drone control & AI detection scripts)
