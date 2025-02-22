@@ -11,6 +11,7 @@ An **AI-driven autonomous drone** that **monitors lift zones, detects hazards, a
 ✅ **AI-Powered Risk Prediction** – Machine Learning models detect risks **before escalation**.  
 
 ## 🛠️ Technologies Used  
+
 - **AI & Computer Vision** – YOLOv8, OpenCV, TensorFlow  
 - **Drone Hardware** – LiDAR, Thermal Cameras, Gas Sensors  
 - **IoT & Edge Computing** – Jetson Nano, Raspberry Pi, MQTT  
@@ -18,37 +19,54 @@ An **AI-driven autonomous drone** that **monitors lift zones, detects hazards, a
 - **Networking & Streaming** – WebRTC, RTSP, 5G/Wi-Fi  
 
 ## 📂 Project Structure  
+
 📁 Drone-LiftZone-Surveillance
+
 │── 📄 README.md (Project Documentation)
+
 │── 📂 models/ (Trained AI models)
+
 │── 📂 scripts/ (Drone control & AI detection scripts)
+
 │── 📂 data/ (Sample hazard images & logs)
+
 │── 📄 Drone_Hazard_Detection.ipynb (Colab notebook for AI model training)
 
 
 ## 🚀 How to Run  
+
 1️⃣ **Clone this repository**  
+
 git clone https://github.com/your-username/Drone-LiftZone-Surveillance.git
+
 cd Drone-LiftZone-Surveillance
 
 2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the AI model
+
 python scripts/detect_hazards.py
 
 4️⃣ Deploy the drone system (ensure hardware is connected)
 
 💡 Future Enhancements
+
 🚀 Autonomous Navigation using Reinforcement Learning
+
 📊 Advanced Predictive Analytics for safety forecasting
+
 ☁️ Cloud Dashboard for real-time monitoring
 
 🤝 Contributing
+
 Contributions are welcome! Please fork this repository and submit a pull request.
 
 📜 License
+
 This project is open-source under the MIT License.
 
 📧 Contact
+
 For queries or collaboration, contact: tanishqthuse555@gmail.com
