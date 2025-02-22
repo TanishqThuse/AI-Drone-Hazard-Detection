@@ -56,7 +56,7 @@ python scripts/detect_hazards.py
 
 4️⃣ Deploy the drone system (ensure hardware is connected)
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 
 🚀 Autonomous Navigation using Reinforcement Learning
 
@@ -64,14 +64,14 @@ python scripts/detect_hazards.py
 
 ☁️ Cloud Dashboard for real-time monitoring
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request.
 
-📜 License
+## 📜 License
 
 This project is open-source under the MIT License.
 
-📧 Contact
+## 📧 Contact
 
 For queries or collaboration, contact: tanishqthuse555@gmail.com
