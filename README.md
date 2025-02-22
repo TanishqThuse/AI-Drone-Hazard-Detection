@@ -18,6 +18,11 @@ An **AI-driven autonomous drone** that **monitors lift zones, detects hazards, a
 - **Cloud & Data Storage** – Firebase, AWS, Google Cloud  
 - **Networking & Streaming** – WebRTC, RTSP, 5G/Wi-Fi  
 
+## 📊 Dataset Used  
+We used the **"Lift Dataset"** from **TU Graz** for training our AI model on hazard detection in lift zones.  
+
+📂 **Dataset Link:** [TU Graz Lift Dataset](https://www.tugraz.at/index.php?id=22387)  
+
 ## 📂 Project Structure  
 
 📁 Drone-LiftZone-Surveillance
