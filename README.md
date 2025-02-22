@@ -31,12 +31,6 @@ The **Semantic Drone Dataset** focuses on the semantic understanding of urban sc
 
 │── 📄 README.md (Project Documentation)
 
-│── 📂 models/ (Trained AI models)
-
-│── 📂 scripts/ (Drone control & AI detection scripts)
-
-│── 📂 data/ (Sample hazard images & logs)
-
 │── 📄 Drone_Hazard_Detection.ipynb (Colab notebook for AI model training)
 
 
